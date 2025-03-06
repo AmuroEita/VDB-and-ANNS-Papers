@@ -3,8 +3,8 @@ VDB/ANNS Papers
 
 ## Theory
 - [NIPS'23] Worst-case Performance of Popular Approximate Nearest Neighbor Search Implementations: Guarantees and Limitations
-- [Arxiv'25] A BI-METRIC FRAMEWORK FOR EFFICIENT NEAREST NEIGHBOR SEARCH
-- [Arxiv'25] DIVERSE GRAPH-BASED NEAREST NEIGHBOR SEARCH
+- [Arxiv'25] A Bi-Metric Framework For Efficient Nearest Neighbor Search
+- [Arxiv'25] Diverse Graph-based Nearest Neighbor Search
 
 ## In-plcae Updates
 - [Arxiv'25] In-Place Updates of a Graph Index for Streaming Approximate Nearest Neighbor Search
