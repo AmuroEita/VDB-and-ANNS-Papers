@@ -6,5 +6,13 @@ VDB/ANNS Papers
 - [Arxiv'25] A Bi-Metric Framework For Efficient Nearest Neighbor Search
 - [Arxiv'25] Diverse Graph-based Nearest Neighbor Search
 
-## In-plcae Updates
+## In-Plcae Updates
 - [Arxiv'25] In-Place Updates of a Graph Index for Streaming Approximate Nearest Neighbor Search
+
+## Disk ANN
+
+## Concurrency Control
+
+## Parallel
+
+## Quantification
